@@ -8,5 +8,7 @@ A simple script to convert an RDF document to a CXL file to view with CmapTools 
 `$ easy_install rdflib` 
 or 
 `$ pip install rdflib`
+
+
 #Usage
 `python cxl_converter.py -i input.rdf -o /tmp/out.cxl`
